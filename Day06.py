@@ -1,5 +1,4 @@
 import os
-import re
 
 def Solution(length, data = None, inputFile = None):
 	if data == None:
